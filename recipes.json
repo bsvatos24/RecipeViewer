@@ -1,0 +1,474 @@
+[
+  {
+    "name": "Turkey Wrap",
+    "ingredients": [
+      "1 whole wheat tortilla",
+      "4 slices deli turkey",
+      "1/4 cup shredded lettuce",
+      "2 slices tomato",
+      "2 tablespoons hummus"
+    ],
+    "optionalIngredients": [],
+    "instructions": "Spread hummus on tortilla, layer turkey, lettuce, and tomato. Roll and slice.",
+    "tags": [
+      "Cold",
+      "No-Cook",
+      "Healthy"
+    ],
+    "estimatedTime": "5 minutes"
+  },
+  {
+    "name": "Tuna Salad Lettuce Wraps",
+    "ingredients": [
+      "1 (5 oz) can tuna, drained",
+      "2 tablespoons mayonnaise or Greek yogurt",
+      "1 stalk celery, finely chopped",
+      "4 large lettuce leaves"
+    ],
+    "optionalIngredients": [
+      "1 tablespoon chopped red onion",
+      "1/4 teaspoon black pepper"
+    ],
+    "instructions": "Mix tuna, mayo, and celery. Stir in optional onion and pepper if desired. Serve scoops in lettuce leaves.",
+    "tags": [
+      "Cold",
+      "No-Cook",
+      "Healthy"
+    ],
+    "estimatedTime": "10 minutes"
+  },
+  {
+    "name": "Egg Salad Sandwiches",
+    "ingredients": [
+      "4 large eggs, hard-boiled and chopped",
+      "2 tablespoons mayonnaise",
+      "1 teaspoon yellow mustard",
+      "4 slices sandwich bread or 2 tortillas"
+    ],
+    "optionalIngredients": [
+      "1 tablespoon chopped chives",
+      "1/4 teaspoon paprika"
+    ],
+    "instructions": "Mix eggs, mayo, and mustard. Add optional chives or paprika. Spread onto bread or tortillas and serve.",
+    "tags": [
+      "Cold",
+      "No-Cook"
+    ],
+    "estimatedTime": "10 minutes"
+  },
+  {
+    "name": "Greek Chickpea Salad",
+    "ingredients": [
+      "1 (15 oz) can chickpeas, drained and rinsed",
+      "1/2 cup chopped cucumber",
+      "1/2 cup halved cherry tomatoes",
+      "1/4 cup crumbled feta cheese"
+    ],
+    "optionalIngredients": [
+      "1 tablespoon olive oil",
+      "1 teaspoon lemon juice",
+      "1 tablespoon chopped parsley"
+    ],
+    "instructions": "Combine all ingredients. Add optional olive oil, lemon juice, and parsley to taste.",
+    "tags": [
+      "Cold",
+      "No-Cook",
+      "Healthy"
+    ],
+    "estimatedTime": "10 minutes"
+  },
+  {
+    "name": "Caprese Pasta Salad",
+    "ingredients": [
+      "1 cup cooked pasta, cooled",
+      "1/2 cup halved cherry tomatoes",
+      "1/4 cup mozzarella pearls",
+      "2 tablespoons pesto or chopped basil"
+    ],
+    "optionalIngredients": [
+      "1 teaspoon balsamic glaze"
+    ],
+    "instructions": "Toss all ingredients. Drizzle optional balsamic glaze if desired.",
+    "tags": [
+      "Cold",
+      "Healthy"
+    ],
+    "estimatedTime": "10 minutes"
+  },
+  {
+    "name": "Hummus Veggie Wrap",
+    "ingredients": [
+      "1 large tortilla",
+      "2 tablespoons hummus",
+      "1/4 cup shredded carrots",
+      "1/4 cup cucumber slices"
+    ],
+    "optionalIngredients": [
+      "1 tablespoon crumbled feta",
+      "1 tablespoon sliced olives"
+    ],
+    "instructions": "Spread hummus on tortilla, add veggies, and optional toppings. Roll and serve.",
+    "tags": [
+      "Cold",
+      "No-Cook",
+      "Healthy"
+    ],
+    "estimatedTime": "5 minutes"
+  },
+  {
+    "name": "Chicken Caesar Salad",
+    "ingredients": [
+      "1 cup cooked chicken breast, sliced",
+      "2 cups romaine lettuce, chopped",
+      "2 tablespoons Caesar dressing",
+      "1/4 cup croutons"
+    ],
+    "optionalIngredients": [
+      "2 tablespoons grated Parmesan cheese"
+    ],
+    "instructions": "Toss lettuce, chicken, dressing, and croutons. Top with Parmesan if desired.",
+    "tags": [
+      "Cold"
+    ],
+    "estimatedTime": "10 minutes"
+  },
+  {
+    "name": "Pita & Deli Snack Box",
+    "ingredients": [
+      "1 whole grain pita, halved",
+      "4 slices deli turkey or ham",
+      "2 slices cheese",
+      "1/2 cup grapes or sliced apple"
+    ],
+    "optionalIngredients": [
+      "2 tablespoons hummus"
+    ],
+    "instructions": "Assemble into pita or arrange in a bento box. Add optional hummus if desired.",
+    "tags": [
+      "Cold",
+      "No-Cook"
+    ],
+    "estimatedTime": "5 minutes"
+  },
+  {
+    "name": "Cold Rotisserie Chicken Plate",
+    "ingredients": [
+      "1 cup shredded rotisserie chicken",
+      "1/2 cup cucumber slices",
+      "1/2 cup grapes",
+      "1/4 cup baby carrots"
+    ],
+    "optionalIngredients": [
+      "2 tablespoons ranch dressing"
+    ],
+    "instructions": "Arrange on a plate. Serve with ranch if desired.",
+    "tags": [
+      "Cold",
+      "No-Cook"
+    ],
+    "estimatedTime": "5 minutes"
+  },
+  {
+    "name": "Pasta Salad with Italian Dressing",
+    "ingredients": [
+      "1 cup cooked rotini pasta",
+      "2 tablespoons Italian dressing",
+      "1/4 cup sliced black olives",
+      "1/4 cup diced bell peppers"
+    ],
+    "optionalIngredients": [
+      "2 tablespoons cubed cheddar cheese"
+    ],
+    "instructions": "Toss all ingredients and chill. Add cheese if using.",
+    "tags": [
+      "Cold"
+    ],
+    "estimatedTime": "10 minutes"
+  },
+  {
+    "name": "Southwest Chicken Wrap",
+    "ingredients": [
+      "1 large tortilla",
+      "1/2 cup cooked shredded chicken",
+      "2 tablespoons salsa",
+      "1/4 cup shredded cheddar cheese"
+    ],
+    "optionalIngredients": [
+      "2 tablespoons sour cream"
+    ],
+    "instructions": "Wrap all ingredients in tortilla. Add sour cream if desired.",
+    "tags": [
+      "Cold",
+      "Blackstone",
+      "Grill"
+    ],
+    "estimatedTime": "10 minutes"
+  },
+  {
+    "name": "Italian Hoagie Sandwich",
+    "ingredients": [
+      "1 sub roll",
+      "3 slices salami",
+      "3 slices ham",
+      "2 slices provolone cheese",
+      "Lettuce and tomato slices"
+    ],
+    "optionalIngredients": [
+      "1 tablespoon oil and vinegar"
+    ],
+    "instructions": "Assemble sandwich and drizzle with oil and vinegar if desired.",
+    "tags": [
+      "Cold"
+    ],
+    "estimatedTime": "5 minutes"
+  },
+  {
+    "name": "Chicken & Fruit Salad",
+    "ingredients": [
+      "1 cup cooked diced chicken",
+      "1/2 cup halved grapes or chopped apple",
+      "2 cups mixed greens",
+      "2 tablespoons poppy seed dressing"
+    ],
+    "optionalIngredients": [
+      "1 tablespoon chopped walnuts"
+    ],
+    "instructions": "Toss salad and top with chicken, fruit, and dressing. Add nuts if desired.",
+    "tags": [
+      "Cold",
+      "Healthy"
+    ],
+    "estimatedTime": "10 minutes"
+  },
+  {
+    "name": "Cottage Cheese Power Bowl",
+    "ingredients": [
+      "1 cup cottage cheese",
+      "1/2 cup diced cucumber or tomato",
+      "2 tablespoons sunflower seeds"
+    ],
+    "optionalIngredients": [
+      "1 tablespoon chopped green onion"
+    ],
+    "instructions": "Combine all ingredients in a bowl. Add green onions if desired.",
+    "tags": [
+      "Cold",
+      "No-Cook",
+      "Healthy"
+    ],
+    "estimatedTime": "5 minutes"
+  },
+  {
+    "name": "Blackstone Chicken Quesadillas",
+    "ingredients": [
+      "2 tortillas",
+      "1/2 cup cooked chicken",
+      "1/2 cup shredded cheese",
+      "2 tablespoons salsa"
+    ],
+    "optionalIngredients": [
+      "2 tablespoons sour cream"
+    ],
+    "instructions": "Fill tortilla with chicken and cheese. Cook on Blackstone. Serve with salsa and optional sour cream.",
+    "tags": [
+      "Warm",
+      "Blackstone"
+    ],
+    "estimatedTime": "15 minutes"
+  },
+  {
+    "name": "Blackstone Smash Burgers",
+    "ingredients": [
+      "1 lb ground beef",
+      "4 burger buns",
+      "4 slices cheese"
+    ],
+    "optionalIngredients": [
+      "Pickles",
+      "Burger sauce"
+    ],
+    "instructions": "Form balls, smash and cook on griddle. Add cheese and serve on buns.",
+    "tags": [
+      "Warm",
+      "Blackstone"
+    ],
+    "estimatedTime": "25 minutes"
+  },
+  {
+    "name": "Grilled Chicken Skewers",
+    "ingredients": [
+      "1 lb chicken breast, cubed",
+      "1 bell pepper, chopped",
+      "1 small onion, chopped",
+      "Skewers"
+    ],
+    "optionalIngredients": [
+      "1 tablespoon marinade or BBQ sauce"
+    ],
+    "instructions": "Thread ingredients onto skewers. Grill until cooked. Brush with sauce if desired.",
+    "tags": [
+      "Warm",
+      "Grill",
+      "Healthy"
+    ],
+    "estimatedTime": "20 minutes"
+  },
+  {
+    "name": "Blackstone Chicken Fried Rice",
+    "ingredients": [
+      "2 cups day-old cooked rice",
+      "2 eggs",
+      "1/2 cup cooked diced chicken",
+      "2 tablespoons soy sauce"
+    ],
+    "optionalIngredients": [
+      "1/4 cup frozen peas and carrots"
+    ],
+    "instructions": "Scramble eggs on griddle, add chicken and rice. Stir in soy sauce and optional veggies.",
+    "tags": [
+      "Warm",
+      "Blackstone"
+    ],
+    "estimatedTime": "20 minutes"
+  },
+  {
+    "name": "Breakfast for Dinner",
+    "ingredients": [
+      "4 eggs",
+      "8 slices bacon",
+      "4 slices bread"
+    ],
+    "optionalIngredients": [
+      "1/4 cup shredded cheese"
+    ],
+    "instructions": "Cook bacon and eggs. Toast bread. Add cheese if desired.",
+    "tags": [
+      "Warm",
+      "Blackstone"
+    ],
+    "estimatedTime": "15 minutes"
+  },
+  {
+    "name": "BBQ Chicken Thighs",
+    "ingredients": [
+      "4 boneless chicken thighs",
+      "1/4 cup BBQ sauce",
+      "Salt and pepper to taste"
+    ],
+    "optionalIngredients": [
+      "1 tablespoon olive oil"
+    ],
+    "instructions": "Season chicken and Grill until done. Baste with BBQ sauce. Use olive oil if desired.",
+    "tags": [
+      "Warm",
+      "Grill"
+    ],
+    "estimatedTime": "30 minutes"
+  },
+  {
+    "name": "Grilled Sausage & Peppers",
+    "ingredients": [
+      "4 Italian sausages",
+      "1 bell pepper, sliced",
+      "1 onion, sliced"
+    ],
+    "optionalIngredients": [
+      "1 teaspoon Italian seasoning"
+    ],
+    "instructions": "Grill sausages and veggies until browned. Add seasoning if desired.",
+    "tags": [
+      "Warm",
+      "Grill"
+    ],
+    "estimatedTime": "25 minutes"
+  },
+  {
+    "name": "Ham & Gravy on Toast",
+    "ingredients": [
+      "1 cup chopped deli ham",
+      "2 tablespoons butter",
+      "2 tablespoons flour",
+      "2 cups milk",
+      "4 slices toast"
+    ],
+    "optionalIngredients": [
+      "Black pepper to taste"
+    ],
+    "instructions": "Make a roux with butter and flour, whisk in milk, stir in ham. Serve over toast.",
+    "tags": [
+      "Warm"
+    ],
+    "estimatedTime": "15 minutes"
+  },
+  {
+    "name": "Grilled Flatbread Pizza",
+    "ingredients": [
+      "2 flatbreads",
+      "1/4 cup pizza sauce",
+      "1/2 cup shredded mozzarella",
+      "Toppings of choice"
+    ],
+    "optionalIngredients": [
+      "1 teaspoon Italian herbs"
+    ],
+    "instructions": "Assemble pizza and Grill until cheese melts. Sprinkle herbs if desired.",
+    "tags": [
+      "Warm",
+      "Grill"
+    ],
+    "estimatedTime": "15 minutes"
+  },
+  {
+    "name": "Grilled Chicken Fajitas",
+    "ingredients": [
+      "1 lb chicken breast, sliced",
+      "1 bell pepper, sliced",
+      "1 onion, sliced",
+      "4 tortillas"
+    ],
+    "optionalIngredients": [
+      "1 tablespoon fajita seasoning"
+    ],
+    "instructions": "Grill chicken and veggies. Serve in tortillas with optional seasoning.",
+    "tags": [
+      "Warm",
+      "Grill"
+    ],
+    "estimatedTime": "20 minutes"
+  },
+  {
+    "name": "Blackstone Grilled Cheese",
+    "ingredients": [
+      "4 slices bread",
+      "4 slices cheese",
+      "2 tablespoons butter"
+    ],
+    "optionalIngredients": [
+      "1 slice tomato"
+    ],
+    "instructions": "Butter bread, place cheese and optional tomato between slices. Cook until golden.",
+    "tags": [
+      "Warm",
+      "Blackstone"
+    ],
+    "estimatedTime": "10 minutes"
+  },
+  {
+    "name": "Blackstone Breakfast Hash",
+    "ingredients": [
+      "2 cups diced potatoes",
+      "4 eggs",
+      "1/2 cup diced ham or sausage",
+      "1/4 cup shredded cheese"
+    ],
+    "optionalIngredients": [
+      "1/4 cup chopped onions"
+    ],
+    "instructions": "Cook potatoes, add meat, then eggs. Top with cheese and optional onions.",
+    "tags": [
+      "Warm",
+      "Blackstone"
+    ],
+    "estimatedTime": "25 minutes"
+  }
+]
