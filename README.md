@@ -1,5 +1,10 @@
 # 🍽️ RecipeViewer
 
+![GitHub Pages](https://img.shields.io/badge/site-live-green?style=flat-square)
+![Recipes](https://img.shields.io/badge/recipes-28-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/updated-July_2025-brightgreen?style=flat-square)
+![Built With](https://img.shields.io/badge/built_with-Bootstrap%205.3-blue?style=flat-square)
+
 A simple, responsive web app for browsing, filtering, and viewing a collection of easy 3–5 ingredient recipes.
 
 This tool was created to help plan weekly meals using a rotating JSON-based recipe list, with filters like cooking method (Blackstone, Grill, No-cook), health tags (Healthy, Spicy), and estimated prep time. It also supports light/dark mode and mobile responsiveness.
