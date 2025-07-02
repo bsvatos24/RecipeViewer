@@ -1,7 +1,7 @@
 # 🍽️ RecipeViewer
 
 ![GitHub Pages](https://img.shields.io/badge/site-live-green?style=flat-square)
-![Recipes](https://img.shields.io/badge/recipes-28-blue?style=flat-square)
+![Recipes](https://img.shields.io/badge/recipes-26-blue?style=flat-square)
 ![Updated](https://img.shields.io/badge/updated-July_2025-brightgreen?style=flat-square)
 ![Built With](https://img.shields.io/badge/built_with-Bootstrap%205.3-blue?style=flat-square)
 
